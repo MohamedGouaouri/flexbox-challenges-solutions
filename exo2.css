@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: palevioletred;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: white;
+}
